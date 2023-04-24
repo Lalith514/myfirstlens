@@ -1,0 +1,17 @@
+{
+    "1675112549278833:4011": {
+        "IResourceController": {
+            "name": "right_clavicle_JNT",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1618933267660157:224305"
+        },
+        "IResourceManager": {
+            "uid": "1618933267660157:224305",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

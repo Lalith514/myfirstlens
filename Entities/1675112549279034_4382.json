@@ -1,0 +1,23 @@
+{
+    "1675112549278980:4303": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Custom Nodes"
+            }
+        }
+    },
+    "1675112549279034:4382": {
+        "IResourceController": {
+            "name": "Custom Nodes",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1675112549278980:4303",
+            "resources": [
+                "1675112549278838:4048",
+                "1675112549278839:4050"
+            ]
+        }
+    }
+}

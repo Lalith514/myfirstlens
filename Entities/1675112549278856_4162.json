@@ -1,0 +1,17 @@
+{
+    "1675112549278856:4162": {
+        "IResourceController": {
+            "name": "left_back_toe_JNT",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1619036881150390:3010721"
+        },
+        "IResourceManager": {
+            "uid": "1619036881150390:3010721",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

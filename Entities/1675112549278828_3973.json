@@ -1,0 +1,99 @@
+{
+    "1618933267345187:223300": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "125328",
+                "compressedSize": "90094",
+                "extension": "mesh",
+                "originalRAM": "125328",
+                "originalSize": "90094",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "tangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "boneData"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1675112549278950:4274"
+        }
+    },
+    "1675112549278828:3973": {
+        "IResourceController": {
+            "name": "red_panda_lo",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1618933267345187:223300",
+            "fileId": "1675112549278879:4214",
+            "originalId": "1675112549278880:4215",
+            "publicId": "1675112549278976:4290",
+            "expected_hash": "6955ae436ec6a2c1fa59d00f761681f4"
+        },
+        "IResourceManager": {
+            "uid": "1618933267345187:223300",
+            "name": "Files/File_1675112549278879_4214.mesh",
+            "flags": 1
+        }
+    },
+    "1675112549278879:4214": {
+        "IFileManager": {
+            "path": "Files/File_1675112549278879_4214.mesh"
+        }
+    },
+    "1675112549278880:4215": {
+        "IFileManager": {
+            "path": "Files/File_1675112549278880_4215.mesh"
+        }
+    },
+    "1675112549278950:4274": {
+        "IFileManager": {
+            "path": "Files/File_1675112549278950_4274.mesh"
+        }
+    },
+    "1675112549278976:4290": {
+        "IResourceController": {
+            "public": {
+                "path": "Red_Panda_FBX [REMOVE_ME]/Meshes/red_panda_lo.mesh",
+                "hash": "6955ae436ec6a2c1fa59d00f761681f4"
+            }
+        }
+    }
+}

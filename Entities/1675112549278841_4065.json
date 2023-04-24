@@ -1,0 +1,17 @@
+{
+    "1675112549278841:4065": {
+        "IResourceController": {
+            "name": "Chest_01_JNT_2",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1619036880925014:3008074"
+        },
+        "IResourceManager": {
+            "uid": "1619036880925014:3008074",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

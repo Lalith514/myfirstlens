@@ -1,0 +1,79 @@
+{
+    "1618933268034539:225247": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "be41801402376ae465615fd09cf21b74"
+                    },
+                    "v": "1675112549278898:4231"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "2097152",
+                "compressedSize": "97243",
+                "extension": "png",
+                "originalRAM": "16777216",
+                "originalSize": "287803",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1675112549278892:4226"
+        }
+    },
+    "1675112549278838:4046": {
+        "IResourceController": {
+            "name": "red_panda_param",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1618933268034539:225247",
+            "fileId": "1675112549278890:4224",
+            "originalId": "1675112549278891:4225",
+            "publicId": "1675112549278978:4296",
+            "expected_hash": "73091f68a0f33f519b8b2bc68ba48f8e",
+            "additional": {
+                "originHash": "be41801402376ae465615fd09cf21b74"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1618933268034539:225247",
+            "name": "Files/File30.jpg",
+            "flags": 1
+        }
+    },
+    "1675112549278890:4224": {
+        "IFileManager": {
+            "path": "Files/File_1675112549278890_4224.pvr"
+        }
+    },
+    "1675112549278891:4225": {
+        "IFileManager": {
+            "path": "Files/File_1675112549278891_4225.png"
+        }
+    },
+    "1675112549278892:4226": {
+        "IFileManager": {
+            "path": "Files/File_1675112549278892_4226.png"
+        }
+    },
+    "1675112549278898:4231": {
+        "IFileManager": {
+            "path": "Files/File_1675112549278898_4231.pvr"
+        }
+    },
+    "1675112549278978:4296": {
+        "IResourceController": {
+            "public": {
+                "path": "Red_Panda_FBX [REMOVE_ME]/Textures/red_panda_param.png",
+                "hash": "be41801402376ae465615fd09cf21b74"
+            }
+        }
+    }
+}

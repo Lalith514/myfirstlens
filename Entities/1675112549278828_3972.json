@@ -1,0 +1,33 @@
+{
+    "1675112549278828:3972": {
+        "IResourceController": {
+            "name": "WorldObjectController",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1618933267307880:223280",
+            "fileId": "1675112549278878:4213",
+            "publicId": "1675112549278975:4287",
+            "expected_hash": "441e03e6cbaf2911803ef82a1578cb84"
+        },
+        "IResourceManager": {
+            "uid": "1618933267307880:223280",
+            "name": "Files/File_1675112549278878_4213.js",
+            "flags": 1
+        }
+    },
+    "1675112549278878:4213": {
+        "IFileManager": {
+            "path": "Files/File_1675112549278878_4213.js"
+        }
+    },
+    "1675112549278975:4287": {
+        "IResourceController": {
+            "public": {
+                "path": "WorldObjectController/Scripts/WorldObjectController.js",
+                "hash": "441e03e6cbaf2911803ef82a1578cb84"
+            }
+        }
+    }
+}

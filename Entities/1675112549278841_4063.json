@@ -1,0 +1,17 @@
+{
+    "1675112549278841:4063": {
+        "IResourceController": {
+            "name": "BACK_02_JNT_2",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1619036880921867:3008020"
+        },
+        "IResourceManager": {
+            "uid": "1619036880921867:3008020",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

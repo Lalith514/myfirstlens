@@ -1,0 +1,33 @@
+{
+    "1675112549278839:4050": {
+        "IResourceController": {
+            "name": "Play Mesh Animation",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1618940092790774:206539",
+            "fileId": "1675112549278904:4236",
+            "publicId": "1675112549278979:4301",
+            "expected_hash": "ea2ef7049685af4653eaaa8b479d5f8b"
+        },
+        "IResourceManager": {
+            "uid": "1618940092790774:206539",
+            "name": "Files/File_1675112549278904_4236.js",
+            "flags": 1
+        }
+    },
+    "1675112549278904:4236": {
+        "IFileManager": {
+            "path": "Files/File_1675112549278904_4236.js"
+        }
+    },
+    "1675112549278979:4301": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Custom Nodes/Play Mesh Animation.js",
+                "hash": "ea2ef7049685af4653eaaa8b479d5f8b"
+            }
+        }
+    }
+}

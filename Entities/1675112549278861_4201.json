@@ -1,0 +1,79 @@
+{
+    "1623110897271381:8982613": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "74037b5f890db23a4aa88aac4fd681be"
+                    },
+                    "v": "1675112549278945:4270"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "131072",
+                "compressedSize": "8975",
+                "extension": "png",
+                "originalRAM": "1048576",
+                "originalSize": "31381",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1675112549278943:4268"
+        }
+    },
+    "1675112549278861:4201": {
+        "IResourceController": {
+            "name": "big_hint_car",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1623110897271381:8982613",
+            "fileId": "1675112549278941:4266",
+            "originalId": "1675112549278942:4267",
+            "publicId": "1675112549278985:4320",
+            "expected_hash": "6dfe081620395263eaf03d84f7135924",
+            "additional": {
+                "originHash": "74037b5f890db23a4aa88aac4fd681be"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1623110897271381:8982613",
+            "name": "Files/File157.jpg",
+            "flags": 1
+        }
+    },
+    "1675112549278941:4266": {
+        "IFileManager": {
+            "path": "Files/File_1675112549278941_4266.pvr"
+        }
+    },
+    "1675112549278942:4267": {
+        "IFileManager": {
+            "path": "Files/File_1675112549278942_4267.png"
+        }
+    },
+    "1675112549278943:4268": {
+        "IFileManager": {
+            "path": "Files/File_1675112549278943_4268.png"
+        }
+    },
+    "1675112549278945:4270": {
+        "IFileManager": {
+            "path": "Files/File_1675112549278945_4270.pvr"
+        }
+    },
+    "1675112549278985:4320": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/big_hint_car.png",
+                "hash": "74037b5f890db23a4aa88aac4fd681be"
+            }
+        }
+    }
+}

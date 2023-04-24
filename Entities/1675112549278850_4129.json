@@ -1,0 +1,17 @@
+{
+    "1675112549278850:4129": {
+        "IResourceController": {
+            "name": "left_front_leg_02_JNT_2",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1619036881057092:3009818"
+        },
+        "IResourceManager": {
+            "uid": "1619036881057092:3009818",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

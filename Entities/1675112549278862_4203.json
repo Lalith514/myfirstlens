@@ -1,0 +1,39 @@
+{
+    "1675112549278862:4203": {
+        "IResourceController": {
+            "name": "elephant_pbr",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1645232572632609:51709",
+            "fileId": "1675112549278953:4276",
+            "originalId": "1675112549278954:4277",
+            "publicId": "1675112549278986:4322",
+            "expected_hash": "fdaa41ca30760ecbe3abe5432d401194"
+        },
+        "IResourceManager": {
+            "uid": "1645232572632609:51709",
+            "name": "Files/File_1675112549278953_4276",
+            "flags": 1
+        }
+    },
+    "1675112549278953:4276": {
+        "IFileManager": {
+            "path": "Files/File_1675112549278953_4276"
+        }
+    },
+    "1675112549278954:4277": {
+        "IFileManager": {
+            "path": "Files/File_1675112549278954_4277.lsmat"
+        }
+    },
+    "1675112549278986:4322": {
+        "IResourceController": {
+            "public": {
+                "path": "Elephant [REMOVE_ME]/Materials/elephant_pbr.lsmat",
+                "hash": "80a5b94f7e280db552dafe9cd1571b05"
+            }
+        }
+    }
+}

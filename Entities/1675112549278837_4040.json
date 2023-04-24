@@ -1,0 +1,17 @@
+{
+    "1675112549278837:4040": {
+        "IResourceController": {
+            "name": "right_leg_T_JNT",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1618933267710774:225092"
+        },
+        "IResourceManager": {
+            "uid": "1618933267710774:225092",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "1675112549278975:4289": {
+        "IResourceController": {
+            "public": {
+                "path": "Red_Panda_FBX [REMOVE_ME]/Meshes"
+            }
+        }
+    },
+    "1675112549279099:4391": {
+        "IResourceController": {
+            "name": "Meshes",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1675112549278975:4289",
+            "resources": [
+                "1675112549278828:3973",
+                "1675112549278828:3975"
+            ]
+        }
+    }
+}

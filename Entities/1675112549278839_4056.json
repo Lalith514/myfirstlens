@@ -1,0 +1,17 @@
+{
+    "1675112549278839:4056": {
+        "IResourceController": {
+            "name": "ROOT_ALL",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1619036880910576:3007831"
+        },
+        "IResourceManager": {
+            "uid": "1619036880910576:3007831",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

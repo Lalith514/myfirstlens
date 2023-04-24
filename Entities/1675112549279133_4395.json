@@ -1,0 +1,25 @@
+{
+    "1675112549278975:4288": {
+        "IResourceController": {
+            "public": {
+                "path": "Red_Panda_FBX [REMOVE_ME]"
+            }
+        }
+    },
+    "1675112549279133:4395": {
+        "IResourceController": {
+            "name": "Red_Panda_FBX [REMOVE_ME]",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1675112549278975:4288",
+            "resources": [
+                "1675112549279099:4391",
+                "1675112549279102:4392",
+                "1675112549279132:4393",
+                "1675112549279132:4394"
+            ]
+        }
+    }
+}

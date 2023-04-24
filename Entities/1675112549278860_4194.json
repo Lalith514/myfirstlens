@@ -1,0 +1,39 @@
+{
+    "1675112549278860:4194": {
+        "IResourceController": {
+            "name": "ChangeMaterialOnFocus",
+            "type": 4,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1619228255792463:4384421",
+            "fileId": "1675112549278925:4253",
+            "originalId": "1675112549278926:4254",
+            "publicId": "1675112549278984:4315",
+            "expected_hash": "b83cd464dab777488b9ba9d59e0ebde2"
+        },
+        "IResourceManager": {
+            "uid": "1619228255792463:4384421",
+            "name": "Files/File_1675112549278925_4253",
+            "flags": 1
+        }
+    },
+    "1675112549278925:4253": {
+        "IFileManager": {
+            "path": "Files/File_1675112549278925_4253"
+        }
+    },
+    "1675112549278926:4254": {
+        "IFileManager": {
+            "path": "Files/File_1675112549278926_4254.lsscript"
+        }
+    },
+    "1675112549278984:4315": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/ChangeMaterialOnFocus.lsscript",
+                "hash": "babd7e3077103836ea82b4bdc944d4d7"
+            }
+        }
+    }
+}

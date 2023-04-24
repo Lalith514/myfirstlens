@@ -1,0 +1,17 @@
+{
+    "1675112549278840:4058": {
+        "IResourceController": {
+            "name": "COG_JNT",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1619036880914900:3007885"
+        },
+        "IResourceManager": {
+            "uid": "1619036880914900:3007885",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

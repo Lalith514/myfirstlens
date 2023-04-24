@@ -1,0 +1,17 @@
+{
+    "1675112549278847:4105": {
+        "IResourceController": {
+            "name": "left_ear_04_JNT_2",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1619036881011069:3009166"
+        },
+        "IResourceManager": {
+            "uid": "1619036881011069:3009166",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

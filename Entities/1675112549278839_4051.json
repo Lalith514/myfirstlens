@@ -1,0 +1,42 @@
+{
+    "1675112549278839:4051": {
+        "IResourceController": {
+            "name": "ground_grid",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1619027105661436:8954022",
+            "fileId": "1675112549278905:4237",
+            "originalId": "1675112549278907:4238",
+            "publicId": "1675112549278979:4302",
+            "expected_hash": "4a430f8ef84f6261fe908b0b1f0ed35a",
+            "additional": {
+                "isUnpackedInPublic": "false"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1619027105661436:8954022",
+            "name": "Files/File_1675112549278905_4237",
+            "flags": 1
+        }
+    },
+    "1675112549278905:4237": {
+        "IFileManager": {
+            "path": "Files/File_1675112549278905_4237"
+        }
+    },
+    "1675112549278907:4238": {
+        "IFileManager": {
+            "path": "Files/File_1675112549278907_4238.lsmat"
+        }
+    },
+    "1675112549278979:4302": {
+        "IResourceController": {
+            "public": {
+                "path": "WorldObjectController/Materials/ground_grid.lsmat",
+                "hash": "0d7d5d11fa6c7e6c099ddffafce03ea5"
+            }
+        }
+    }
+}

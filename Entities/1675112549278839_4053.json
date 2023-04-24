@@ -1,0 +1,79 @@
+{
+    "1619036880201226:3007775": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "3ace30969e49088daa298543c8b249ed"
+                    },
+                    "v": "1675112549278923:4252"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "2097152",
+                "compressedSize": "148737",
+                "extension": "png",
+                "originalRAM": "16777216",
+                "originalSize": "449715",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1675112549278914:4244"
+        }
+    },
+    "1675112549278839:4053": {
+        "IResourceController": {
+            "name": "elephant_med_01_defaultMat1_materialParams",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1619036880201226:3007775",
+            "fileId": "1675112549278911:4242",
+            "originalId": "1675112549278912:4243",
+            "publicId": "1675112549278981:4309",
+            "expected_hash": "775d05dbb563996af328fa4b695831a3",
+            "additional": {
+                "originHash": "3ace30969e49088daa298543c8b249ed"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1619036880201226:3007775",
+            "name": "Files/File113.jpg",
+            "flags": 1
+        }
+    },
+    "1675112549278911:4242": {
+        "IFileManager": {
+            "path": "Files/File_1675112549278911_4242.pvr"
+        }
+    },
+    "1675112549278912:4243": {
+        "IFileManager": {
+            "path": "Files/File_1675112549278912_4243.png"
+        }
+    },
+    "1675112549278914:4244": {
+        "IFileManager": {
+            "path": "Files/File_1675112549278914_4244.png"
+        }
+    },
+    "1675112549278923:4252": {
+        "IFileManager": {
+            "path": "Files/File_1675112549278923_4252.pvr"
+        }
+    },
+    "1675112549278981:4309": {
+        "IResourceController": {
+            "public": {
+                "path": "Elephant [REMOVE_ME]/Textures/elephant_med_01_defaultMat1_materialParams.png",
+                "hash": "3ace30969e49088daa298543c8b249ed"
+            }
+        }
+    }
+}

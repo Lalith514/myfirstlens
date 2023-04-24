@@ -1,0 +1,22 @@
+{
+    "1675112549278982:4311": {
+        "IResourceController": {
+            "public": {
+                "path": "Elephant [REMOVE_ME]/Meshes"
+            }
+        }
+    },
+    "1675112549279042:4387": {
+        "IResourceController": {
+            "name": "Meshes",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1675112549278982:4311",
+            "resources": [
+                "1675112549278839:4055"
+            ]
+        }
+    }
+}

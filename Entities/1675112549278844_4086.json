@@ -1,0 +1,17 @@
+{
+    "1675112549278844:4086": {
+        "IResourceController": {
+            "name": "trunk_08_JNT",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1619036880972410:3008649"
+        },
+        "IResourceManager": {
+            "uid": "1619036880972410:3008649",
+            "name": "",
+            "flags": 0
+        }
+    }
+}
